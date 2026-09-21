@@ -14,7 +14,7 @@
 | `core/download_maplibre.py` | 用来下载离线用的maplibre-gl.js |
 | `core/maplibre-gl.js` | 已经下载好的MapLibre GL JS文件，版本为4.7.1 |
 | `core/tile-renderer.spec` | pyinstaller配置文件，用来打包成package中的exe工具 |
-| `package/browsers.zip` | 无头浏览器的压缩包，使用时解压到当前目录 |
+| `package/browsers` | 无头浏览器 |
 | `package/tile-renderer.exe` | 打包好的瓦片生成程序 |
 | `package/maplibre-gl.js` | 已经下载好的MapLibre GL JS文件，版本为4.7.1 |
 
